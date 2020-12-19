@@ -70,7 +70,7 @@ if post_dict:
 """
 on:
   push:
-    branches: [ master ]
+    branches: [ master ]                                         
   pull_request:
     branches: [ master ]
   schedule:
